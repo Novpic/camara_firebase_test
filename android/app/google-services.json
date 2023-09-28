@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159815343222",
+    "project_id": "camara-test-firebase",
+    "storage_bucket": "camara-test-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159815343222:android:6d729a8968d4988a80d357",
+        "android_client_info": {
+          "package_name": "com.example.camara_firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvk28kJoKOzWawST9P39HW9lOyXZ5JxUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
